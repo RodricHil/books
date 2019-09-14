@@ -1,0 +1,29 @@
+h1{
+  text-align: center;
+  color: DodgerBlue;
+  letter-spacing: 2px;
+    }
+
+h2{
+  text-align: left;
+  color: black;
+  }
+
+#ind {
+  font-weight: bold;
+  text-align: left;  
+}
+
+#qua{
+  width: 50%;
+}
+
+body{
+  background-color: #E6E6FA;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 150%;
+}
+div{
+  border: 1px solid gray;
+  padding: 8px;
+}
